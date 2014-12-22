@@ -1,0 +1,57 @@
+body {
+  font-family: cursive;
+  width: 325px;
+  margin: 0 325px;
+  background-image: url(https://newevolutiondesigns.com/images/freebies/christmas-wallpaper-20.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: white;
+  font-size: 35px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+input, button {
+  font-size: 18px;
+}
+
+#add{
+  background: #C21F1F;
+  font-weight: bold;
+}
+#message {
+  margin: 6px 0px;
+  color: green;
+  display: none;
+}
+
+li {
+  color: #470808;
+  border: 1px solid #000;
+  margin: 10px 0px;
+  padding: 8px;
+  list-style: none;
+  background: rgb(255, 255, 255) transparent;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.item-complete {
+  text-decoration: line-through;
+  color: #2A8FBD;
+  border: 1px solid #000;
+  height: 20px;
+}
+
+.item {
+  font-size: 12px;
+  text-transform: uppercase;
+  background-color: #3C8D0D;
+  border: 1px solid #3C8D0D;
+  text-decoration: none;
+  padding: 3px;
+  margin-right: 5px;
+  font-weight: bolder;
+  text-decoration: none;
+}
